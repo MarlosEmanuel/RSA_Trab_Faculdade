@@ -1,6 +1,5 @@
 
-      SISTEMA CRIPTOGRÁFICO RSA
-========================================
+SISTEMA CRIPTOGRÁFICO RSA
 
 Este é um programa de linha de comando (CLI) interativo escrito em Java que demonstra o funcionamento do algoritmo de criptografia assimétrica RSA.
 
